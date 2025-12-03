@@ -28,7 +28,7 @@
 
 #### Information
 
-- Gymniac Website -> [HERE](https://gymniac.app)
+- Spartn Website -> [HERE](https://spartn.app)
 - Apple Appstore Link -> [HERE](https://apps.apple.com/us/app/gymniac/id6476600191)
 
 #### Features

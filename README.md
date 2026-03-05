@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keano</h1>
 <h3 align="center">A passionate fullstack developer originally from the Boston, MA area</h3>
 
-- 🔭 I’m currently working on **magic**
-
 - 👨‍💻 All of my projects are private **feel free to ask if you are interested in seeing what I have worked on!**
 
 - 💬 Ask me about **SwiftUI**
